@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestWebSocket</string>
+    <string name="shared_pref_name">TestWebSocket_id_name</string>
+</resources>
